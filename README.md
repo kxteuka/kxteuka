@@ -48,11 +48,4 @@
 
 ---
 
-### 📫 Contact
-
-- 📍 Bilbao, Basque Country  
-- 📧 [Reach me via GitHub](https://github.com/kxteuka)
-
----
-
 _Thanks for visiting! ⭐️_
