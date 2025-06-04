@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Iván</h1>
-<h3 align="center">Automation and Industrial Electronics technician that also learns code!</h3>
+<h1 align="center">Hi, I'm Iván</h1>
+<h3 align="center">Automation and Industrial Electronics technician</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kxteuka&label=Profile%20views&color=0e75b6&style=flat" alt="kxteuka" /> </p>
 
