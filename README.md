@@ -1,11 +1,4 @@
-<h1 align="center">Hi, I'm Iván 👋</h1>
-<h3 align="center">Automation and Industrial Electronics Technician</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kxteuka&label=Profile%20views&color=0e75b6&style=flat" alt="kxteuka" />
-</p>
-
----
+<h2 align="center">Hi, I'm Iván 👋</h2>
 
 ### 👨‍💻 About Me
 
@@ -51,16 +44,6 @@
   <a href="https://ethereum.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/></a>
   <a href="https://bitcoin.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"/></a>
   <a href="https://www.counter-strike.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" alt="Counter Strike"/></a>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kxteuka&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
 </p>
 
 ---
